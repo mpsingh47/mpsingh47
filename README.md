@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mpsingh47
-- 👀 I’m interested in software development
-- 🌱 I’m good in Python, C/C++,Django.
+- 👋 Hi, I’m Manpreet Singh (@mpsingh47)
+- 👀 I’m a Software Engineer with over 2.5+ years of experience.
+- 🌱 My expertise is at Python, C/C++, Django, NLP and ML/AI.
 - 💞️ I’m looking to collaborate on ML & AI projects.
-- 📫 How to reach me mpsingh1113@gmail.com
+- 📫 Reach me at mpsingh1113@gmail.com
 
 <!---
 mpsingh47/mpsingh47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
